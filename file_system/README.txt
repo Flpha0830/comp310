@@ -1,1 +1,1 @@
-Please note that sfs_api.h and Makefile are modified. Thank you!
+A UNIX-like file system by using i-node structure, files table and FUSE wrappers
